@@ -1,0 +1,11 @@
+#
+name: highmode
+main: com.krowcraft.highmode.highmode
+version: 0.2
+author: CRUSTY_KROW
+commands:
+  high:
+    description: get high
+    Usage: /high
+    permission: nightvision.use
+    permission-message: No permissions to get high (high.use)
